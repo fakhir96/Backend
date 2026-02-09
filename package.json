@@ -1,0 +1,15 @@
+{
+  "name": "backproj",
+  "version": "1.0.0",
+  "description": "Main Project",
+  "keywords": [
+    "javaScript"
+  ],
+  "license": "ISC",
+  "author": "Fakhir",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
